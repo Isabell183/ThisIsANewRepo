@@ -65,6 +65,8 @@ int main(int argc, const char * argv[]) {
         total = total + (hoursWorkedWeek * payRate);
         
     }
+    
+    cout << "Testing if my username made the switch" << endl;
    
     return 0;
 }
